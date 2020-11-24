@@ -14,4 +14,4 @@ def engage
   return state_log(date)
 end
 
-enage
+engage
