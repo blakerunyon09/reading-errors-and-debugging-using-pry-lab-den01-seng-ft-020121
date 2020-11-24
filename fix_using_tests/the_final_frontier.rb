@@ -6,10 +6,12 @@ end
 
 
 def state_log(star_date)
-  return "Captain's Log, #{star_date}."
+  return "Captain's Log, star date #{star_date}."
 end
 
 def engage
   date = generate_star_date
   return state_log(date)
 end
+
+enage
